@@ -1,9 +1,9 @@
 {
-  "releaseId": "2026-10-19-biscuit-route-copy",
-  "sourceSha256": "3629a274c114b1cabf523e27fe4f0def108c7c916d387ac605a4261855b3831f",
-  "artifactSha256": "1ae3c932fc84bde6fca1c50c8cb81f9bcfd579aeded863dd27556e064fb4c4cd",
-  "priorCommit": "18092da0ff7978e8c438bcbef2fcf6fda4901966",
-  "scope": "Biscuit selector copy: clear pack goals and aligned trial priorities across four selling units",
-  "qa": "Local observations: four tabs at three viewports, hover and keyboard interaction, unchanged Bakery and Snacks controls. No external signed attestation.",
-  "createdAt": "2026-10-19T11:38:42.658369+00:00"
+  "releaseId": "2026-10-19-sitewide-fab-copy",
+  "sourceSha256": "db0506c6748daf3e01eb63697ea295f0e6cdd1682ddd8b8d268f8fb6caae03aa",
+  "artifactSha256": "7fd34fc4abc266a5d88ef57d30d61dad1eaf435540a2d5810a3a8832323bd842",
+  "priorCommit": "8215f6aec27b3f4335ecfd5b06adbe55fd905e59",
+  "scope": "Buyer-focused copy for brand, categories, solutions, packaging formats, line, model and service pages; shared CTA and clear configuration examples",
+  "qa": "Local observations:183 routes x3 viewports; specification tables retained;66 model destinations;36 representative screenshots;49 selection interactions. No external signed attestation.",
+  "createdAt": "2026-10-19T12:30:05.264446+00:00"
 }

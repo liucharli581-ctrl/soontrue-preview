@@ -1,9 +1,9 @@
 {
-  "releaseId": "2026-10-19-remove-related-content-buttons",
-  "sourceSha256": "5ec8dcdfbb978b5baeaa8d46616986eae0b9dac0185496549cc38fd81bbc8854",
-  "artifactSha256": "54bc7319a1618f81c10a0beb53bafa26d1366a7f7c69f78a24f611a8c000caa1",
-  "priorCommit": "cec0bba07ed61ab227224f5a55cf945dfaea369e",
-  "scope": "Flow overview Related Case Studies and Blog: remove redundant header buttons, retain four content links and two cover links",
-  "qa": "Local observations: related section at three viewports, retained detail links and no redundant header buttons. No external signed attestation.",
-  "createdAt": "2026-10-19T11:02:24.584392+00:00"
+  "releaseId": "2026-10-19-standard-series-banner",
+  "sourceSha256": "4d6bb32896e28dddd9790abdae3588fdbad5f3545a8d84258156b4764019a7aa",
+  "artifactSha256": "4e6d2a99abce0f50627c47675b5ab3c1bfb3c9aba88f2d9b800ce8615b05ee44",
+  "priorCommit": "6ce49a80189dea6e6f07f0d0f85fd1c151398c4d",
+  "scope": "Machine series use standard global banner: heading subtitle and one CTA without technical chips",
+  "qa": "Local observations: three representative routes at three viewports, all14 template routes, unchanged product detail control. No external signed attestation.",
+  "createdAt": "2026-10-19T11:06:00.250700+00:00"
 }

@@ -1,12 +1,10 @@
 {
-  "releaseId": "2026-10-19-seo-three-templates",
-  "sourceSha256": "a0d5bf8fb2e2982dec54f0e10c476b3831d2489c394d05aac7532061c25325ca",
-  "artifactSha256": "0ba111711260f37eeeef7beb75837855161c02ede85a230448ec628650a28461",
-  "priorCommit": "02950550e5c140867c1322fd553fe607196a7118",
+  "releaseId": "2026-10-19-remove-standup-related",
+  "sourceSha256": "9e402a1427037f0eec94bef9f08548e860a0f18a753dc0742c133e04b63f73bb",
+  "artifactSha256": "6d9766a42cc72b40a37de0b6937cb0eb77b13357aecdee6ae3bd4874a82a6cae",
+  "priorCommit": "d76c7464255457a7e0609ab8a102d92466c415a1",
   "pages": [
-    "/products/flow-wrappers",
-    "/industries/bakery",
     "/formats/stand-up-pouches"
   ],
-  "createdAt": "2026-10-19T06:16:42.432149+00:00"
+  "createdAt": "2026-10-19T06:23:31.577828+00:00"
 }

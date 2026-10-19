@@ -1,0 +1,12 @@
+{
+  "releaseId": "2026-10-19-seo-three-templates",
+  "sourceSha256": "a0d5bf8fb2e2982dec54f0e10c476b3831d2489c394d05aac7532061c25325ca",
+  "artifactSha256": "0ba111711260f37eeeef7beb75837855161c02ede85a230448ec628650a28461",
+  "priorCommit": "02950550e5c140867c1322fd553fe607196a7118",
+  "pages": [
+    "/products/flow-wrappers",
+    "/industries/bakery",
+    "/formats/stand-up-pouches"
+  ],
+  "createdAt": "2026-10-19T06:16:42.432149+00:00"
+}

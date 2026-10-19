@@ -1,9 +1,9 @@
 {
-  "releaseId": "2026-10-19-soonflow-brand-journey",
-  "sourceSha256": "529db80af8b79993aafd7bd18035ac09a6b24fefcf19a78fba487b4ffe703d6b",
-  "artifactSha256": "bc2e0bf61f640b2d92e68f4319d60c98339bd978cddb5038c9819cc973f81532",
-  "priorCommit": "cb5707af0296aec1d0a3abb4f79798df9d32fdd1",
-  "scope": "Homepage six-stage journey: SOONFLOW Soontrue sub-brand positioning, engineering and manufacturing support, customer takeaways",
-  "qa": "Local observations: six stages at three viewports, keyboard activation and overflow checks. No external signed attestation.",
-  "createdAt": "2026-10-19T10:55:40.329076+00:00"
+  "releaseId": "2026-10-19-flow-comparison-model-links",
+  "sourceSha256": "0205a257134094ee2440b9b3ad0f0ab65be6f39486083e98ec760f90eef2e02d",
+  "artifactSha256": "b538a7a340b5ed4812cfdd4729a33aedfca8b333218a9ae4f70196dbb8eb140f",
+  "priorCommit": "c17c0c7a7a3874c9bf82eb6580eee7a9b7ebf8fc",
+  "scope": "Flow overview and both series: comparison model names link to corresponding product details",
+  "qa": "Local observations: three pages at three viewports, eight native model detail navigations and overflow checks. No external signed attestation.",
+  "createdAt": "2026-10-19T10:59:56.006369+00:00"
 }

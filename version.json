@@ -1,9 +1,9 @@
 {
-  "releaseId": "2026-10-19-model-card-spec-rows",
-  "sourceSha256": "ef05ba2fbef31efd73e6c7f6207786d9f5ff4671669f45168ac1431ba6bb725b",
-  "artifactSha256": "dd2279868ea24a5e586633adaffc6c6ab0abaefe263139df032fec6459abb2de",
-  "priorCommit": "da0b34a8f552d1111839622f206938fe8a96a4a8",
-  "scope": "Each model-card specification label occupies its own row across category and related-machine cards",
-  "qa": "Local observations: six representative routes at three viewports and all70 product route checks. No external signed attestation.",
-  "createdAt": "2026-10-19T11:10:31.888861+00:00"
+  "releaseId": "2026-10-19-sitewide-model-detail-links",
+  "sourceSha256": "ec6a2d4f787bce7f76cf1d54d8af2f8610decbb84f4075149f951a0a2bcc5072",
+  "artifactSha256": "be56f6bfcf05f2ecc237121e6854c4669203ca6e46e534cedf6f9b6bf99fa600",
+  "priorCommit": "7a5b7e08907d2780fa5da859d7511747dc72b31f",
+  "scope": "Sitewide model references link to corresponding product details; add18 grounded destinations and preserve unknown specifications explicitly",
+  "qa": "Local observations: 183 route/link coverage checks,45 responsive states and17 native model navigation checks. No external signed attestation.",
+  "createdAt": "2026-10-19T11:24:58.667716+00:00"
 }

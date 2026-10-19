@@ -1,9 +1,9 @@
 {
-  "releaseId": "2026-10-19-sitewide-fab-copy",
-  "sourceSha256": "db0506c6748daf3e01eb63697ea295f0e6cdd1682ddd8b8d268f8fb6caae03aa",
-  "artifactSha256": "7fd34fc4abc266a5d88ef57d30d61dad1eaf435540a2d5810a3a8832323bd842",
-  "priorCommit": "8215f6aec27b3f4335ecfd5b06adbe55fd905e59",
-  "scope": "Buyer-focused copy for brand, categories, solutions, packaging formats, line, model and service pages; shared CTA and clear configuration examples",
-  "qa": "Local observations:183 routes x3 viewports; specification tables retained;66 model destinations;36 representative screenshots;49 selection interactions. No external signed attestation.",
-  "createdAt": "2026-10-19T12:30:05.264446+00:00"
+  "releaseId": "2026-10-19-audit-remediation",
+  "sourceSha256": "2082f3d1ab826148584e3b487b93764933da62677d0e2de875f89e163c9b0220",
+  "artifactSha256": "3a4a2915e598cdd3f1e8a3729e3a43c8e4962634f6bdef869df6a416ff44a7ef",
+  "priorCommit": "def60c130cdc5e823690b3e748f406896d935069",
+  "scope": "Audit remediation:four missed marketing templates; scoped group facts; resource destinations and pending labels; controls and conformity documentation; modal keyboard focus",
+  "qa": "Local observations:183routes x3viewports;66model destinations891links;64screenshots;36native interactions. Existing machine figures retained except unresolved legacy SZ280 fields, with controls/conformity separated. No production or complete master-data accuracy claim.",
+  "createdAt": "2026-10-19T15:18:50.267226+00:00"
 }

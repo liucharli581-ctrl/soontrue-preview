@@ -1,9 +1,9 @@
 {
-  "releaseId": "2026-10-19-flow-comparison-model-links",
-  "sourceSha256": "0205a257134094ee2440b9b3ad0f0ab65be6f39486083e98ec760f90eef2e02d",
-  "artifactSha256": "b538a7a340b5ed4812cfdd4729a33aedfca8b333218a9ae4f70196dbb8eb140f",
-  "priorCommit": "c17c0c7a7a3874c9bf82eb6580eee7a9b7ebf8fc",
-  "scope": "Flow overview and both series: comparison model names link to corresponding product details",
-  "qa": "Local observations: three pages at three viewports, eight native model detail navigations and overflow checks. No external signed attestation.",
-  "createdAt": "2026-10-19T10:59:56.006369+00:00"
+  "releaseId": "2026-10-19-remove-related-content-buttons",
+  "sourceSha256": "5ec8dcdfbb978b5baeaa8d46616986eae0b9dac0185496549cc38fd81bbc8854",
+  "artifactSha256": "54bc7319a1618f81c10a0beb53bafa26d1366a7f7c69f78a24f611a8c000caa1",
+  "priorCommit": "cec0bba07ed61ab227224f5a55cf945dfaea369e",
+  "scope": "Flow overview Related Case Studies and Blog: remove redundant header buttons, retain four content links and two cover links",
+  "qa": "Local observations: related section at three viewports, retained detail links and no redundant header buttons. No external signed attestation.",
+  "createdAt": "2026-10-19T11:02:24.584392+00:00"
 }

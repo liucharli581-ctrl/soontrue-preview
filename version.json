@@ -1,9 +1,9 @@
 {
-  "releaseId": "2026-10-19-bakery-route-copy",
-  "sourceSha256": "5d272d83bd184dd7959d34a91ef3c2f0270a408071d1ed79c35474bfd7b5eb33",
-  "artifactSha256": "af718c44cc77f78f85ce798b9587b522a935d8073f5a6d9f3da66438beecd338",
-  "priorCommit": "77f9c3f7e73b96ca79dbec5bea3f5327e6630a3f",
-  "scope": "Bakery selector copy: clear pack goals, concise summaries and aligned trial priorities across five product choices",
-  "qa": "Local observations: five tabs at three viewports, hover and keyboard interaction, unchanged Snacks control. No external signed attestation.",
-  "createdAt": "2026-10-19T11:33:22.888286+00:00"
+  "releaseId": "2026-10-19-biscuit-route-copy",
+  "sourceSha256": "3629a274c114b1cabf523e27fe4f0def108c7c916d387ac605a4261855b3831f",
+  "artifactSha256": "1ae3c932fc84bde6fca1c50c8cb81f9bcfd579aeded863dd27556e064fb4c4cd",
+  "priorCommit": "18092da0ff7978e8c438bcbef2fcf6fda4901966",
+  "scope": "Biscuit selector copy: clear pack goals and aligned trial priorities across four selling units",
+  "qa": "Local observations: four tabs at three viewports, hover and keyboard interaction, unchanged Bakery and Snacks controls. No external signed attestation.",
+  "createdAt": "2026-10-19T11:38:42.658369+00:00"
 }

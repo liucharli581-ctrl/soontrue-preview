@@ -1,11 +1,11 @@
 {
-  "releaseId": "2026-10-19-flow-selection-panels",
-  "sourceSha256": "7e44dc9be062180bcba153fabf144931b61774d09e291eef5421120060a6dbe6",
-  "artifactSha256": "762aab20ec92b06f6efbb1e7815c33513625d8b95cfc986f9b53f31e0694967f",
-  "priorCommit": "d852ec115479159773932bf50eeb9377ab3510bd",
-  "scope": "flow-wrapper selection component",
+  "releaseId": "2026-10-19-align-case-blog",
+  "sourceSha256": "36690a4ff62a59f8a7b1bb981493d279da9556575713bd46e8d170cd8449420c",
+  "artifactSha256": "b89ee9b5387b7581d31f032954fdf1cc1518727fd3b5f8b796a9cbef6012b65a",
+  "priorCommit": "1a90cefcf2e4d31cafae1efe6a99f01d954d5276",
+  "scope": "flow-wrapper related case studies and blog",
   "pages": [
     "/products/flow-wrappers"
   ],
-  "createdAt": "2026-10-19T06:37:17.529263+00:00"
+  "createdAt": "2026-10-19T06:43:18.615790+00:00"
 }

@@ -1,11 +1,11 @@
 {
-  "releaseId": "2026-10-19-align-case-blog",
-  "sourceSha256": "36690a4ff62a59f8a7b1bb981493d279da9556575713bd46e8d170cd8449420c",
-  "artifactSha256": "b89ee9b5387b7581d31f032954fdf1cc1518727fd3b5f8b796a9cbef6012b65a",
-  "priorCommit": "1a90cefcf2e4d31cafae1efe6a99f01d954d5276",
-  "scope": "flow-wrapper related case studies and blog",
+  "releaseId": "2026-10-19-bakery-product-selector",
+  "sourceSha256": "b0decc4a68e953fb37894c387c100a6334d9ff75fd1f83132f63b81f1df03f13",
+  "artifactSha256": "dacdb180e5fd501c850aafe7a36dbaa26a7ca13f19ead65a342dd8b1a8efdcee",
+  "priorCommit": "18393871dd4cbcdcadcf726a4e6fd71d454fcc20",
+  "scope": "bakery product and packaging route selector",
   "pages": [
-    "/products/flow-wrappers"
+    "/industries/bakery"
   ],
-  "createdAt": "2026-10-19T06:43:18.615790+00:00"
+  "createdAt": "2026-10-19T06:55:08.341319+00:00"
 }

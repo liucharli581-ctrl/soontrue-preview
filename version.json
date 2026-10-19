@@ -1,10 +1,13 @@
 {
-  "releaseId": "2026-10-19-remove-standup-related",
-  "sourceSha256": "9e402a1427037f0eec94bef9f08548e860a0f18a753dc0742c133e04b63f73bb",
-  "artifactSha256": "6d9766a42cc72b40a37de0b6937cb0eb77b13357aecdee6ae3bd4874a82a6cae",
-  "priorCommit": "d76c7464255457a7e0609ab8a102d92466c415a1",
+  "releaseId": "2026-10-19-clean-supporting-copy",
+  "sourceSha256": "68320c9f53fc2b608a7b4b783ac9c95f0d8b5f87226437825099c13a8af7c671",
+  "artifactSha256": "f0c5bcae5968877bb68f1c63391ee7345353c08c5d1064a8692e9a2a0f484901",
+  "priorCommit": "038621f0e2b3928cec5073ae8cf5e3ef247418d7",
+  "scope": "site-wide supporting copy",
   "pages": [
-    "/formats/stand-up-pouches"
+    "/products/flow-wrappers",
+    "/products/case-erectors",
+    "/products/flow-wrappers/sz-100"
   ],
-  "createdAt": "2026-10-19T06:23:31.577828+00:00"
+  "createdAt": "2026-10-19T06:31:53.035899+00:00"
 }

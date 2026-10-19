@@ -1,13 +1,11 @@
 {
-  "releaseId": "2026-10-19-clean-supporting-copy",
-  "sourceSha256": "68320c9f53fc2b608a7b4b783ac9c95f0d8b5f87226437825099c13a8af7c671",
-  "artifactSha256": "f0c5bcae5968877bb68f1c63391ee7345353c08c5d1064a8692e9a2a0f484901",
-  "priorCommit": "038621f0e2b3928cec5073ae8cf5e3ef247418d7",
-  "scope": "site-wide supporting copy",
+  "releaseId": "2026-10-19-flow-selection-panels",
+  "sourceSha256": "7e44dc9be062180bcba153fabf144931b61774d09e291eef5421120060a6dbe6",
+  "artifactSha256": "762aab20ec92b06f6efbb1e7815c33513625d8b95cfc986f9b53f31e0694967f",
+  "priorCommit": "d852ec115479159773932bf50eeb9377ab3510bd",
+  "scope": "flow-wrapper selection component",
   "pages": [
-    "/products/flow-wrappers",
-    "/products/case-erectors",
-    "/products/flow-wrappers/sz-100"
+    "/products/flow-wrappers"
   ],
-  "createdAt": "2026-10-19T06:31:53.035899+00:00"
+  "createdAt": "2026-10-19T06:37:17.529263+00:00"
 }

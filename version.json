@@ -1,9 +1,9 @@
 {
-  "releaseId": "2026-10-19-standard-series-banner",
-  "sourceSha256": "4d6bb32896e28dddd9790abdae3588fdbad5f3545a8d84258156b4764019a7aa",
-  "artifactSha256": "4e6d2a99abce0f50627c47675b5ab3c1bfb3c9aba88f2d9b800ce8615b05ee44",
-  "priorCommit": "6ce49a80189dea6e6f07f0d0f85fd1c151398c4d",
-  "scope": "Machine series use standard global banner: heading subtitle and one CTA without technical chips",
-  "qa": "Local observations: three representative routes at three viewports, all14 template routes, unchanged product detail control. No external signed attestation.",
-  "createdAt": "2026-10-19T11:06:00.250700+00:00"
+  "releaseId": "2026-10-19-model-card-spec-rows",
+  "sourceSha256": "ef05ba2fbef31efd73e6c7f6207786d9f5ff4671669f45168ac1431ba6bb725b",
+  "artifactSha256": "dd2279868ea24a5e586633adaffc6c6ab0abaefe263139df032fec6459abb2de",
+  "priorCommit": "da0b34a8f552d1111839622f206938fe8a96a4a8",
+  "scope": "Each model-card specification label occupies its own row across category and related-machine cards",
+  "qa": "Local observations: six representative routes at three viewports and all70 product route checks. No external signed attestation.",
+  "createdAt": "2026-10-19T11:10:31.888861+00:00"
 }
